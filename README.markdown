@@ -1,5 +1,7 @@
 # Ruby Readability
 
+_Forked from [Iteration Labs, LLC](https://github.com/iterationlabs)._
+
 Ruby Readability is a tool for extracting the primary readable content of a webpage.  It is a Ruby port of arc90's readability project.
 
 ## Install
